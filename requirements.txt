@@ -15,4 +15,5 @@ pytz             # via pandas
 scipy              # via seaborn
 seaborn
 six              # via cycler, python-dateutil
+sklearn
 tensorflow
