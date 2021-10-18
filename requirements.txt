@@ -17,3 +17,5 @@ seaborn
 six              # via cycler, python-dateutil
 sklearn
 tensorflow
+tensorflow-recommenders
+tensorflow-datasets
